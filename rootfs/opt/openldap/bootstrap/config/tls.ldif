@@ -3,11 +3,11 @@ changetype: modify
 replace: olcTLSCACertificateFile
 olcTLSCACertificateFile: /etc/ldap/ssl/fullchain.crt
 -
-replace: olcTLSCertificateFile
-olcTLSCertificateFile: /etc/ldap/ssl/ldap.crt
--
 replace: olcTLSCertificateKeyFile
 olcTLSCertificateKeyFile: /etc/ldap/ssl/ldap.key
+-
+replace: olcTLSCertificateFile
+olcTLSCertificateFile: /etc/ldap/ssl/ldap.crt
 -
 replace: olcTLSVerifyClient
 olcTLSVerifyClient: never

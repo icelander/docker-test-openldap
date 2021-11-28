@@ -1,0 +1,14 @@
+dn: cn=planex,ou=Groups,dc=planetexpress,dc=com
+objectclass: Group
+objectclass: top
+groupType: 2147483650
+cn: planex
+member: cn=amy@planetexpress.com,ou=Humans,dc=planetexpress,dc=com
+member: cn=bender@planetexpress.com,ou=Robots,dc=planetexpress,dc=com
+member: cn=professor@planetexpress.com,ou=Humans,dc=planetexpress,dc=com
+member: cn=fry@planetexpress.com,ou=Humans,dc=planetexpress,dc=com
+member: cn=hermes@planetexpress.com,ou=Humans,dc=planetexpress,dc=com
+member: cn=leela@planetexpress.com,ou=Aliens,dc=planetexpress,dc=com
+member: cn=scruffy@planetexpress.com,ou=Humans,dc=planetexpress,dc=com
+member: cn=zoidberg@planetexpress.com,ou=Aliens,dc=planetexpress,dc=com
+

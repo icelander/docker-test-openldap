@@ -1,0 +1,18 @@
+dn: cn=guests,ou=Groups,dc=planetexpress,dc=com
+objectclass: Group
+objectclass: top
+groupType: 2147483650
+cn: guests
+member: cn=al@algore.com,ou=Humans,dc=planetexpress,dc=com
+member: cn=david.cohen@fox.com,ou=Humans,dc=planetexpress,dc=com
+member: cn=fox.mulder@fbi.gov,ou=Humans,dc=planetexpress,dc=com
+member: cn=sulu@ufp.gov,ou=Humans,dc=planetexpress,dc=com
+member: cn=riker@ufp.gov,ou=Humans,dc=planetexpress,dc=com
+member: cn=spock@ufp.gov,ou=Humans,dc=planetexpress,dc=com
+member: cn=lucy.liu@gmail.com,ou=Humans,dc=planetexpress,dc=com
+member: cn=marv.albert@sports.cam,ou=Humans,dc=planetexpress,dc=com
+member: cn=groening@fox.com,ou=Humans,dc=planetexpress,dc=com
+member: cn=nixon@us.gov,ou=Humans,dc=planetexpress,dc=com
+member: cn=chekov@ufp.gov,ou=Humans,dc=planetexpress,dc=com
+member: cn=kirk@ufp.gov,ou=Humans,dc=planetexpress,dc=com
+

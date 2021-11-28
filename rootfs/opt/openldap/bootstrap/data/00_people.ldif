@@ -1,5 +1,19 @@
-dn: ou=people,dc=planetexpress,dc=com
-objectClass: top
-objectClass: organizationalUnit
-description: Planet Express crew
-ou: people
+dn: ou=Groups,dc=planetexpress,dc=com
+changetype: add
+objectclass: organizationalUnit
+ou: Groups
+
+dn: ou=Humans,dc=planetexpress,dc=com
+changetype: add
+objectclass: organizationalUnit
+ou: Humans
+
+dn: ou=Robots,dc=planetexpress,dc=com
+changetype: add
+objectclass: organizationalUnit
+ou: Robots
+
+dn: ou=Aliens,dc=planetexpress,dc=com
+changetype: add
+objectclass: organizationalUnit
+ou: Aliens

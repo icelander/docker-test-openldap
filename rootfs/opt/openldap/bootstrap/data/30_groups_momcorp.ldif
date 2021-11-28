@@ -1,0 +1,11 @@
+dn: cn=momcorp,ou=Groups,dc=planetexpress,dc=com
+objectclass: Group
+objectclass: top
+groupType: 2147483650
+cn: momcorp
+member: cn=gunther@momcorp.cam,ou=Humans,dc=planetexpress,dc=com
+member: cn=ignar@momcorp.cam,ou=Humans,dc=planetexpress,dc=com
+member: cn=larry@momcorp.cam,ou=Humans,dc=planetexpress,dc=com
+member: cn=mom@momcorp.cam,ou=Humans,dc=planetexpress,dc=com
+member: cn=walt@momcorp.cam,ou=Humans,dc=planetexpress,dc=com
+

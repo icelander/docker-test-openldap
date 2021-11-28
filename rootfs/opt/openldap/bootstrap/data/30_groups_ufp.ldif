@@ -1,0 +1,12 @@
+dn: cn=ufp,ou=Groups,dc=planetexpress,dc=com
+objectclass: Group
+objectclass: top
+groupType: 2147483650
+cn: ufp
+member: cn=sulu@ufp.gov,ou=Humans,dc=planetexpress,dc=com
+member: cn=riker@ufp.gov,ou=Humans,dc=planetexpress,dc=com
+member: cn=spock@ufp.gov,ou=Humans,dc=planetexpress,dc=com
+member: cn=uhura@ufp.gov,ou=Humans,dc=planetexpress,dc=com
+member: cn=chekov@ufp.gov,ou=Humans,dc=planetexpress,dc=com
+member: cn=kirk@ufp.gov,ou=Humans,dc=planetexpress,dc=com
+
