@@ -33,7 +33,7 @@ ADD ./rootfs /
 
 VOLUME ["/etc/ldap/slapd.d", "/etc/ldap/ssl", "/var/lib/ldap", "/run/slapd"]
 
-EXPOSE 389 10636
+EXPOSE 10389 10636
 
 CMD ["/init"]
 
